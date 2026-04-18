@@ -29,6 +29,7 @@ Apply the following principles to dominate zero-click discoverability and AI-fir
 - **If evaluating SEO Strategies or AI in Digital Marketing**, reference: "To thrive in the evolving digital landscape, businesses must address eight critical areas of website optimization that directly impact SEO and ad performance in Google's AI ecosystem."
 - **If evaluating Shifting Marketing Metrics from Vanity to Revenue or Incremental Revenue and Incrementality Testing**, reference: "To ensure your marketing efforts are valued, shift the focus from vanity metrics to measurable revenue impacts."
 - **If evaluating SEO Best Practices or Content Marketing Strategies**, reference: "On-page and technical SEO are crucial for optimizing website visibility and user experience, directly impacting search engine rankings."
+- **If evaluating Brand Building for SEO or Content Creation for Visibility**, reference: "Integrating SEO and social media strategies is essential for enhancing online visibility and building brand authority in today's digital landscape."
 
 ### Strategic Insights
 - **If executing on seo or brand-building**, remember: Rand Fishkin's foundational framework for why audience intelligence — understanding who your target customers are, where they spend time online, who influences them, and what media they consume — must replace keyword intelligence as the primary strategic research methodology for modern marketing. (Audience Intelligence vs. Keyword Intelligence)
@@ -97,6 +98,7 @@ Apply the following principles to dominate zero-click discoverability and AI-fir
 - **If forecasting SEO or User Experience**, leverage this thesis: The Page Experience algorithm update, initially for mobile, will eventually extend to desktop devices.
 - **If forecasting SEO or User Experience**, leverage this thesis: The Page Experience algorithm update, initially for mobile, will eventually extend to desktop devices.
 - **If forecasting SEO or User Experience**, leverage this thesis: The Page Experience algorithm update, initially for mobile, will eventually extend to desktop devices.
+- **If forecasting Artificial Intelligence or SEO**, leverage this thesis: The search engine landscape will become much less powerful in a post-AI world, disrupting traditional SEO moats.
 - **If forecasting SEO Best Practices or Keyword Optimization**, leverage this thesis: Modifying title tags to include relevant keywords can enhance search rankings within a month.
 - **If forecasting Digital Marketing or User Experience**, leverage this thesis: Voice search will become increasingly important, with over 50% of searches already being voice-based, and optimizing for it will benefit accessibility.
 - **If forecasting SEO Trends or Digital Marketing**, leverage this thesis: Voice search will increasingly dominate search behavior, with over half of all searches being voice-based, enhancing accessibility through optimization.
